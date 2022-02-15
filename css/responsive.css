@@ -1,0 +1,39 @@
+@media only screen and (max-width: 600px) {
+    .stick-menu .navbar-brand img {
+        width: 70px;
+    }
+    .single-counter {
+        padding: 50px 0;
+    }
+    .footer-menu {
+        padding: 0;
+    }
+    .navbar{
+        margin-top: -5%;
+    }
+    #Slider{
+        width: fit-content;
+        height: 100px;
+    }
+    .Slider-inner-content{
+        margin-top: 25%;
+    }
+    .full-menu .navbar-nav{
+        background: #ddd;
+        z-index: 9999;
+        padding-left: 15px;
+    }
+    .project-area{
+        padding: 10px;
+    }
+    .about-area h2{
+        font-size: 24px;
+    }
+    .project-area h2{
+        font-size: 24px;
+    }
+    .project-area button{
+        font-size: small;
+        margin-bottom: 13px;
+    }
+  }
